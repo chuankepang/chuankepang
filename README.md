@@ -14,6 +14,7 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 
 ### 🔥 News
 - *2023.11*: I set up my [personal webpage](chuankepang.github.io).
+- *2023.12.02*: I upload my precious project code, and beautify my github profile.
 
 
 <!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang&hide=issues&show_icons=true) -->
