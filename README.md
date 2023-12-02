@@ -21,6 +21,13 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang\&layout=compact) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang) -->
 
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&card_width=320" />
 </a>
