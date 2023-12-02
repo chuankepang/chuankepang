@@ -8,7 +8,7 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 
 ### 📎 Homepages
 
-- Email: chuankepang@buaa.edu.cn
+- Email: chuankepang@buaa.edu.cn/chuankepang@gmail.com
 - Personal Pages: https://chuankepang.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=Mr7Dx6gAAAAJ
 
