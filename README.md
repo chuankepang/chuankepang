@@ -15,5 +15,15 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 ### 🔥 News
 - *2023.11*: I set up my [personal webpage](chuankepang.github.io).
 
-<!-- [![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang)](https://github.com/anuraghazra/github-readme-stats) -->
-![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang&hide=issues&show_icons=true)
+
+<!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang&hide=issues&show_icons=true) -->
+<!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang\&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&card_width=480" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuankepang&layout=compact&langs_count=8&card_width=480" />
+</a>
