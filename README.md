@@ -13,7 +13,7 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 - Google Scholar: https://scholar.google.com/citations?user=Mr7Dx6gAAAAJ
 
 ### 🔥 News
-- *2023.11.29*: I set up my [personal webpage](chuankepang.github.io).
+- *2023.11.29*: I set up my [personal webpage](https://chuankepang.github.io/).
 - *2023.12.02*: I upload a part of my previous project code, and beautify my github profile.
 
 
