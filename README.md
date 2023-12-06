@@ -24,7 +24,7 @@ My research focuses on **robot learning** -- to enable machines to intelligently
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Loong Pang's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&show_icons=true&theme=buefy&hide_border=true" alt="Loong Pang's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
