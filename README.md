@@ -1,19 +1,21 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
-# 👋 About Me
+# Hi there 👋
 
-I am a postgraduate student at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. Rui Zhong. Before that, I received my B.S. degree majoring in Robotics Engineering at [Harbin Institute of Technology](https://www.hit.edu.cn/).
+<!-- I am a postgraduate student at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. Rui Zhong. Before that, I received my B.S. degree majoring in Robotics Engineering at [Harbin Institute of Technology](https://www.hit.edu.cn/). -->
 
 My research focuses on **robot learning** -- to enable machines to intelligently interact with the world, improve themselves over time and acquire novel skills via machine learning.
 
-### 📎 Homepages
+## 📎 Email
 
-- Email: chuankepang@buaa.edu.cn/chuankepang@gmail.com
+chuankepang@buaa.edu.cn
+
+chuankepang@gmail.com
 
 
-### 🔥 News
+<!-- ### 🔥 News
 
-- *2023.12.02*: I upload a part of my previous project code, and beautify my github profile.
+- *2023.12.02*: I upload a part of my previous project code, and beautify my github profile. -->
 
 
 <!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang&hide=issues&show_icons=true) -->
