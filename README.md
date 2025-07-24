@@ -6,11 +6,9 @@
 
 My research focuses on **robot learning** -- to enable machines to intelligently interact with the world, improve themselves over time and acquire novel skills via machine learning.
 
-## 📎 Email
+<!--## 📎 Email-->
 
-chuankepang@buaa.edu.cn
-
-chuankepang@gmail.com
+Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
 
 
 <!-- ### 🔥 News
