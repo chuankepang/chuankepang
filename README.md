@@ -43,13 +43,16 @@
 -->
  
 #### My Interest Fields are
-* **M**achine learning | **D**eep learning | **R**einforcement learning
-* **B**ioinspired-Robots | **S**imulations for Robotics
-* **O**n-device AI | **Q**uantum computing
+<!--* **M**achine learning | **D**eep learning | **R**einforcement learning | **I**mitation learning-->
+* **A**rtificial intelligence | **E**mbodied AI | **R**obotics
+* **M**anipulation ｜ **H**umanoid
+* **ML** | **DL** | **RL** | **IL**
+<!--* **B**ioinspired-Robots | **S**imulations for Robotics-->
+<!--* **O**n-device AI | **Q**uantum computing-->
 
 </p>
 
-Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
+<!--Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com-->
 
 	
 <h4 align="left">Skills and Tools:</h4>
