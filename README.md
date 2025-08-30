@@ -1,30 +1,18 @@
 <!--## Hi there 👋-->
 
-# Hi there 👋
+<!--# Hi there 👋-->
 
 <!-- I am a postgraduate student at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. Rui Zhong. Before that, I received my B.S. degree majoring in Robotics Engineering at [Harbin Institute of Technology](https://www.hit.edu.cn/). -->
 
-My research focuses on **robot learning** -- to enable machines to intelligently interact with the world, improve themselves over time and acquire novel skills via machine learning.
+<!--My research focuses on **robot learning** -- to enable machines to intelligently interact with the world, improve themselves over time and acquire novel skills via machine learning.-->
 
 <!--## 📎 Email-->
 
-Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
-
-
-<!-- ### 🔥 News
-
-- *2023.12.02*: I upload a part of my previous project code, and beautify my github profile. -->
-
-
-<!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang&hide=issues&show_icons=true) -->
-<!-- ![Chuanke Pang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuankepang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang\&layout=compact) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang) -->
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Loong Pang's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuankepang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Loong Pang's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuankepang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |-->
 
 
 
@@ -35,7 +23,7 @@ Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuankepang&layout=compact&langs_count=8&card_width=380" />
 </a> -->
 
-### *Hi there* 👋 
+### **Hi there** 👋 
 	
 <p align=right>	
 <a href="https://curieuxjy.github.io/about.html"> <img align="right" width="35%" src="./data/blog_index2.gif"> </a>
@@ -43,20 +31,25 @@ Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
 
 <p align=left>
 
-[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://curieuxjy.github.io/)](https://curieuxjy.github.io/)	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curieuxjy@gmail.com)](mailto:curieuxjy@gmail.com)
+[![Github Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/chuankepang)](https://github.com/chuankepang)
+[![Mail Badge](https://img.shields.io/badge/Edumail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuankepang@buaa.edu.cn)](mailto:chuankepang@buaa.edu.cn)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuankepang@gmail.com)](mailto:chuankepang@gmail.com)
+<!--
 [![Research Gate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Jungyeon-Lee-5)](https://www.researchgate.net/profile/Jungyeon-Lee-5)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/curieuxjy/)](https://www.linkedin.com/in/curieuxjy/)
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
-	
+-->
+ 
 #### My Interest Fields are
 * **M**achine learning | **D**eep learning | **R**einforcement learning
 * **B**ioinspired-Robots | **S**imulations for Robotics
 * **O**n-device AI | **Q**uantum computing
 
 </p>
+
+Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com
 
 	
 <h4 align="left">Skills and Tools:</h4>
