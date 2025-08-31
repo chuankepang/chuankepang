@@ -25,9 +25,6 @@
 
 ### **Hi there** 👋 
 	
-<p align=right>	
-<img align="right" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-</p>
 
 <p align=left>
 
@@ -41,7 +38,12 @@
 [![CV Badge](https://img.shields.io/badge/CV-47A141?style=flat-square&logo=overleaf&logoColor=white&link=https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)](https://www.overleaf.com/read/ctdpsgvjdfby#bd57af)
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)
 -->
- 
+
+</p>
+
+
+<p align=left>
+	
 #### My Interest Fields are
 <!--* **M**achine learning | **D**eep learning | **R**einforcement learning | **I**mitation learning-->
 * **A**rtificial intelligence | **E**mbodied AI | **R**obotics
@@ -50,7 +52,6 @@
 <!--* **B**ioinspired-Robots | **S**imulations for Robotics-->
 <!--* **O**n-device AI | **Q**uantum computing-->
 
-</p>
 
 <!--Email: chuankepang@buaa.edu.cn / chuankepang@gmail.com-->
 
@@ -76,4 +77,8 @@
 <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="3.5%"/> </a>
 <a href="https://quarto.org/"> <img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" alt="quarto" width="3.5%"/> </a>
 
+</p>
+
+<p align=right>	
+<img align="right" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
