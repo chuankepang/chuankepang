@@ -26,7 +26,7 @@
 ### **Hi there** 👋 
 	
 <p align=right>	
-<a href="https://curieuxjy.github.io/about.html"> <img align="right" width="35%" src="./data/blog_index2.gif"> </a>
+<img align="right" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
 
 <p align=left>
