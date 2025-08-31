@@ -13,10 +13,11 @@
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing)](https://drive.google.com/file/d/1yE8Q6EmojHKmzJsNoHC_E4DJLjJAkuuF/view?usp=sharing) -->
 </p>
 
-<!-- 两列布局 -->
-<table>
-<tr>
-<td width="60%" valign="top">
+
+<!-- 下面区域：用右浮动 GIF 形成两列视觉效果（无 table、无 CSS） -->
+<div>
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" width="40%"/>
 
 #### My Interest Fields are
 * **A**rtificial intelligence | **E**mbodied AI | **R**obotics  
@@ -25,31 +26,24 @@
 
 <h4>Skills and Tools:</h4>
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="5%"/></a>
-<a><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf20/omniverse/refresh-open-beta/nvidia-omniverse-isaac-sim-icon-128.png" width="5%"/></a>
-<a><img src="https://avatars.githubusercontent.com/u/6955508?s=200&v=4" width="5%"/></a>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="5%"/></a>
-<a href="https://ros.org/"><img src="https://avatars.githubusercontent.com/u/29735195?s=280&v=4" width="5%"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="5%"/></a>
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="5%"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="5%"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="5%"/></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="5%"/></a>
-<a><img src="https://static.bokeh.org/branding/icons/bokeh-icon.jpg" width="5%"/></a>
-<a><img src="https://holoviews.org/_static/logo.png" width="5%"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="5%"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="5%"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="5%"/></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="5%"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="5%"/></a>
-<a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" width="5%"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="4%"/></a>
+<a><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf20/omniverse/refresh-open-beta/nvidia-omniverse-isaac-sim-icon-128.png" width="4%"/></a>
+<a><img src="https://avatars.githubusercontent.com/u/6955508?s=200&v=4" width="4%"/></a>
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="4%"/></a>
+<a href="https://ros.org/"><img src="https://avatars.githubusercontent.com/u/29735195?s=280&v=4" width="4%"/></a>
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="4%"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="4%"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="4%"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="4%"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="4%"/></a>
+<a><img src="https://static.bokeh.org/branding/icons/bokeh-icon.jpg" width="4%"/></a>
+<a><img src="https://holoviews.org/_static/logo.png" width="4%"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="4%"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="4%"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="4%"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="4%"/></a>
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="4%"/></a>
+<a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" width="4%"/></a>
 
-</td>
-
-<td width="40%" valign="middle">
-
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
+</div>
